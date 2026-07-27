@@ -247,8 +247,4 @@ Sales-Performance-Dashboard/
 
 **Kaveesha Maharambage**
 
-LinkedIn: Add your LinkedIn profile link
 
-Portfolio: Add your portfolio link
-
-GitHub: Add your GitHub profile link
