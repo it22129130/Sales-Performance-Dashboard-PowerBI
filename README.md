@@ -199,16 +199,6 @@ Example insights generated from the dashboard:
 
 ---
 
-# Dashboard Preview
-
-(Add your dashboard screenshots here)
-
-Example:
-
-![Sales Dashboard](Images/dashboard.png)
-
----
-
 # Project Structure
 
 ```
